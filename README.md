@@ -18,7 +18,7 @@
 </img>
 </img> </p>
 
-<img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" /
+<img align="left" alt="GIF" src="https://i.imgur.com/VpzdAVQ.gif" >
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dToolzProjects&theme=material-palenight&show_icons=true" alt="D3n1s230290" /> </p>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" >
